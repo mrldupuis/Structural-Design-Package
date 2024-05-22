@@ -86,4 +86,3 @@ This program makes use of a variety of open source and free projects kindly made
 - [urllib3](https://urllib3.readthedocs.io/en/latest/)
 - [wxPython](https://www.wxpython.org/)
 - [zstandard](https://pypi.org/project/zstandard/)
-"""
