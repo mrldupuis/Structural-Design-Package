@@ -1,5 +1,3 @@
-md_text = """
-
 ## Structural Design Package
 Last updated: 4 April 2024
 
